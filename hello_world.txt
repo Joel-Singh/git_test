@@ -1,2 +1,4 @@
 blah blah blah
 test tes Peter Piper Peter Piper test
+
+Testing making a commit message with vs code
